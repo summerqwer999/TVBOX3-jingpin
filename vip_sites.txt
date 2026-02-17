@@ -1,0 +1,21 @@
+# --- 👑 核心稳定源 (画质最好) ---
+量子资源,https://cj.lziapi.com/api.php/provide/vod/
+非凡资源,http://cj.ffzyapi.com/api.php/provide/vod/
+索尼资源,https://suoniapi.com/api.php/provide/vod/
+暴风资源,https://bfzyapi.com/api.php/provide/vod/
+红牛资源,https://www.hongniuzy2.com/api.php/provide/vod/
+
+# --- 🚀 极速备用源 ---
+光速资源,https://api.guangsuapi.com/api.php/provide/vod/
+闪电资源,https://sdzyapi.com/api.php/provide/vod/
+极速资源,https://jszyapi.com/api.php/provide/vod/
+卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/
+天空资源,https://api.tiankongapi.com/api.php/provide/vod/
+无尽资源,https://api.wujinapi.com/api.php/provide/vod/
+
+# --- 🎯 垂直资源 (动漫/低调) ---
+樱花动漫,https://m.yinghuacd.com/api.php/provide/vod/
+优质资源,https://api.1080zyku.com/inc/api.php/provide/vod/
+U酷资源,https://api.ukuapi.com/api.php/provide/vod/
+乐多资源,https://api.ldzyapi.com/api.php/provide/vod/
+百度资源,https://api.apibdzy.com/api.php/provide/vod/
