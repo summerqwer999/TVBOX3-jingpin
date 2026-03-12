@@ -3,6 +3,15 @@
   "wallpaper": "https://picsum.photos/1920/1080",
   "sites": [
     {
+      "key": "量子资源",
+      "name": "💎 量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "索尼资源",
       "name": "💎 索尼资源",
       "type": 1,
