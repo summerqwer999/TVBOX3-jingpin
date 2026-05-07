@@ -30,6 +30,24 @@
       "filterable": 1
     },
     {
+      "key": "红牛资源",
+      "name": "💎 红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "光速资源",
+      "name": "💎 光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "闪电资源",
       "name": "💎 闪电资源",
       "type": 1,
