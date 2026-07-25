@@ -57,6 +57,15 @@
       "filterable": 1
     },
     {
+      "key": "极速资源",
+      "name": "💎 极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "卧龙资源",
       "name": "💎 卧龙资源",
       "type": 1,
