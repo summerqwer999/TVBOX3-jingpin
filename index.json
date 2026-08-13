@@ -84,15 +84,6 @@
       "filterable": 1
     },
     {
-      "key": "优质资源",
-      "name": "💎 优质资源",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "U酷资源",
       "name": "💎 U酷资源",
       "type": 1,
