@@ -84,6 +84,15 @@
       "filterable": 1
     },
     {
+      "key": "无尽资源",
+      "name": "💎 无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "优质资源",
       "name": "💎 优质资源",
       "type": 1,
